@@ -1,11 +1,10 @@
 name: installed_apps
 description: Flutter plugin with utility methods related to installed apps on device.
-version: 2.1.1
-homepage: https://github.com/sharmadhiraj/installed_apps
+version: 3.0.0
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
-  flutter: ">=1.20.0"
+  sdk: ^3.12.0
+  flutter: ">=3.44.0"
 
 dependencies:
   flutter:
